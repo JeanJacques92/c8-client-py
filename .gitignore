@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 Pipfile.lock
 .gitignore
+c8-cli/token.json
